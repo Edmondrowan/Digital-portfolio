@@ -11,7 +11,7 @@
         <div id="header">
             <nav>
                 <ul>
-                    <li style="font-size: x-large;">sivabalan</li>
+                    <li style="font-size: x-large;">Edmond rowan</li>
                     <li style="padding-right: 3%; padding-top: 1px; padding-left: 50%;">HOME</li>
                     <li style="padding-right: 3%;">ABOUT</li>
                     <li style="padding-right: 3%;">QUALIFICATION</li>
